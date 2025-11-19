@@ -1,4 +1,4 @@
-# Telegram бот для опросника CIVIQ
+# artrade_civiq_bot
 
 Telegram бот для проведения опросника по оценке качества жизни пациентов с хронической венозной недостаточностью (CIVIQ - Chronic Venous Insufficiency Questionnaire).
 
@@ -77,4 +77,3 @@ python3 bot.py
 ## Лицензия
 
 Проект создан для образовательных целей.
-
